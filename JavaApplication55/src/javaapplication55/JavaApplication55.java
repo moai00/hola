@@ -16,8 +16,7 @@ public class JavaApplication55 {
      */
     public static void main(String[] args) {
         System.out.println("Hola mundo");
-        System.out.println("Hola mundo por segunda vez");
-        System.out.println("tercera linea");
+        System.out.println("Hola mundo");
     }
     
 }
