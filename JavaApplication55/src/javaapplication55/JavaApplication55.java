@@ -18,7 +18,6 @@ public class JavaApplication55 {
         System.out.println("Hola mundo");
         System.out.println("Hola mundo por segunda vez");
         System.out.println("tercera linea");
-        System.out.println("hollllllla");
     }
     
 }
